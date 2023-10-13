@@ -17,9 +17,7 @@ based on terminal output. My personal favourite is
 [NetHack](https://www.nethack.org).
 Also check out
 [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)), which is
-more or less it's father (or mother):
-
-![Rogue](https://de.wikipedia.org/wiki/Rogue_%28Computerspiel%29#/media/Datei:Rogue_Screen_Shot_CAR.PNG)
+more or less it's father (or mother, if you want).
 
 ## Literature recommendations
 **Clean Code** from Robert C. Martin.
