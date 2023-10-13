@@ -1,4 +1,4 @@
-# Sebastian Zimmermann
+# Introduction
 
 Welcome to my GitHub-Page. There isn't much there yet, though.
 I have a personal interest in functional programming and a love
