@@ -11,5 +11,15 @@ important concepts of software engineering. It is, however,
 forgotten more and more, even in the domain of open source
 software. Follow it!
 
-## Literature Recommendations
+## Game recommendations
+Some of the best and perhaps most complex games are actually
+based on terminal output. My personal favourite is
+[NetHack](https://www.nethack.org).
+Also check out
+[Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)), which is
+more or less it's father (or mother):
+
+![Rogue](https://de.wikipedia.org/wiki/Rogue_%28Computerspiel%29#/media/Datei:Rogue_Screen_Shot_CAR.PNG)
+
+## Literature recommendations
 **Clean Code** from Robert C. Martin.
