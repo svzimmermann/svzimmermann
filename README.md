@@ -8,7 +8,7 @@ for cli applications and games.
 
 Keep it simple, stupid is most probably one of the most
 important concepts of software engineering. It is, however,
-forgotten more an more, even in the domain of open source
+forgotten more and more, even in the domain of open source
 software. Follow it!
 
 ## Literature Recommendations
