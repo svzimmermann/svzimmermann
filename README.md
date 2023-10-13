@@ -13,7 +13,7 @@ software. Follow it!
 
 ## Game recommendations
 Some of the best and perhaps most complex games are actually
-based on terminal output. My personal favourite is
+terminal-based ones. My personal favourite in this group is
 [NetHack](https://www.nethack.org).
 Also check out
 [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)), which is
